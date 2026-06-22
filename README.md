@@ -1,4 +1,5 @@
 # recovery-codes-of-github
+# old recovery codes / New list niche hai
 
 
 
@@ -42,4 +43,22 @@ fc273-05f44
 011 049
 
 
+## New Recovery codes List ye hai
 
+
+c66bd-91ef7 
+07ccc-837d5 
+edc1c-3f4a8 
+a34f8-dd930 
+e2aed-949bc 
+02798-9eba0 
+bd8db-15e82 
+4382f-32b82 
+2e77c-f4aad 
+5addf-7a5ee 
+a8cbc-f1f9b 
+09e76-6e36d 
+d51f2-bfa07 
+eeb1a-f6e6b 
+f81f7-6fdcf 
+c0ae2-b1199
